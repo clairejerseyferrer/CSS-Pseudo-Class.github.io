@@ -1,0 +1,53 @@
+body {
+    background-color: #f0e2ce;
+    margin: 50px;
+
+}
+
+button {
+    background-color: #013220;
+    color: white;
+    font-size: 15px;
+
+
+}
+
+button:hover {
+    background-color: #77dd77;
+    color: white;
+    font-size: 15px;
+
+}
+
+button:focus {
+    background-color: white;
+    color: #77dd77;
+    font-size: 17px;
+
+}
+
+input {
+    color: black;
+}
+
+input:focus {
+    border: auto;
+    color: white;
+    background-color: #bebebe;
+}
+
+a {
+    text-decoration: none;
+    color: #aa7c57;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #004225;
+    font-weight: bold;
+
+}
+
+h1 {
+    text-align: center;
+}
